@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="TestCases"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="build/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="build/dsn.jar"/>
+	<classpathentry kind="lib" path="build/imap.jar"/>
+	<classpathentry kind="lib" path="build/mailapi.jar"/>
+	<classpathentry kind="lib" path="build/pop3.jar"/>
+	<classpathentry kind="lib" path="build/smtp.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/imap.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/smtp.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil/Desktop/javamail-1.4.5/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil/Desktop/javamail-1.4.5/lib/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil/Desktop/javamail-1.4.5/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil/Desktop/javamail-1.4.5/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil/Desktop/javamail-1.4.5/lib/smtp.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
